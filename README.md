@@ -3,7 +3,7 @@
 - Key digital logic concepts: multiplexers, demultiplexers, logic gates, bit splitters, etc. 
 - Key componenets: RAM, ROM, ALU, program counter, registers, instruction decoder, JMPinstruction, and MEMinsntruction.  
 ## How to Run:
-1. Install ![Logisim](http://www.cburch.com/logisim/). 
+1. Install [Logisim](https://sourceforge.net/projects/circuit/). 
 2. Download computer.circ
 3. Open the file. 
  
