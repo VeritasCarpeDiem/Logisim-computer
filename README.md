@@ -2,7 +2,11 @@
 ## A RISC (reduced instruction set computer) computer implemented in Logisim.
 - Key digital logic concepts: multiplexers, demultiplexers, logic gates, bit splitters, etc. 
 - Key componenets: RAM, ROM, ALU, program counter, registers, instruction decoder, JMPinstruction, and MEMinsntruction.  
-
+## How to Run:
+1. Install ![Logisim](http://www.cburch.com/logisim/). 
+2. Download computer.circ
+3. Open the file. 
+ 
 ## What does it do?
 In a single clock cycle (fetch -> decode -> execute)...
 1. The program counter increments
