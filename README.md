@@ -16,3 +16,5 @@ In a single clock cycle (fetch -> decode -> execute)...
 - ALU: Handles add, subtract, multiply, divide operations
 4. The instructiondecoder decodes the opcode, icnrements the stack pointer, and the outputs a outval.
 5. The outval is sent to the RAM, which simply displays the value, which is 0xBEEF. 
+
+![alt text](Capture.png "Title")
